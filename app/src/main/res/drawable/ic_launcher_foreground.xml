@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer accent container shadow -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M 30,50 L 54,26 L 78,50 L 78,82 L 30,82 Z" />
+    <!-- Main white house body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32,51 L 54,29 L 76,51 L 76,80 L 32,80 Z" />
+    <!-- Carved premium waterdrop inside representing water utility tracking -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M 54,52 C 54,52 61,61 61,66 C 61,70 57.8,73 54,73 C 50.2,73 47,70 47,66 C 47,61 54,52 54,52 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Jeblandlord",
+  "description": "An integrated landlord management dashboard tracking smart rent cycle billings, water meter readings, and finance allocations across Nakuru units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
